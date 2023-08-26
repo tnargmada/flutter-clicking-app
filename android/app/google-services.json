@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "175929559218",
+    "project_id": "flutter-clicking-app",
+    "storage_bucket": "flutter-clicking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175929559218:android:882ec2fb503e80823061ab",
+        "android_client_info": {
+          "package_name": "com.example.clicking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175929559218-vmcdta0gv32do515uid78mnvdutrg8kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzBEGvUexYPaVT_Csv0JHiwK9gIL7F52E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175929559218-vmcdta0gv32do515uid78mnvdutrg8kg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "175929559218-blv7vtcetu8ss1mj6tq4qpf8vi3md0hr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clickingApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
